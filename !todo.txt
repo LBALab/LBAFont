@@ -1,0 +1,9 @@
+Procedure RepaintControls(Form: TForm);
+var a: Integer;
+begin
+ for a:=0 to Form.ControlCount-1 do
+  Form.Controls[a].Repaint;
+end;
+
+
+improve drawing speed

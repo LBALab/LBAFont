@@ -1,0 +1,7 @@
+/Source/LBAFont/
+/Source/*.7z
+/Source/*.zip
+/Release/*.7z
+/Release/*.zip
+/Release/*.exe
+/Release/*.ini
